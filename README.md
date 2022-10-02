@@ -2,6 +2,9 @@
 
 ![VRay](./public/vray.png)
 
+### Presentation
+[Click here to see the presentation](./public/presentation.pdf)
+
 ### Screenshot
 
 ![Demostration](./public/demo.png)
